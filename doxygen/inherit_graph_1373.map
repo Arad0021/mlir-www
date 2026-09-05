@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classmlir_1_1shard_1_1ReshardingPattern.html" title="Base class for resharding patterns." alt="" coords="5,111,224,138"/>
+<area shape="rect" id="node2" href="$classmlir_1_1shard_1_1MoveLastSplitAxisPattern.html" title="Move the last split axis of one tensor dimension to the front of another tensor dimension&#39;s split axe..." alt="" coords="287,5,479,47"/>
+<area shape="rect" id="node3" href="$classmlir_1_1shard_1_1SplitLastAxisPattern.html" title="Split a replicated axis: e.g. [[0, 1]] &#45;&gt; [[0, 1, 2]]." alt="" coords="291,71,475,112"/>
+<area shape="rect" id="node4" href="$classmlir_1_1shard_1_1UnsplitLastAxesPattern.html" title="Unsplit trailing axes: e.g. [[0, 1, 2]] &#45;&gt; [[0, 1]] or [[0, 1, 2]] &#45;&gt; []." alt="" coords="297,136,470,177"/>
+<area shape="rect" id="node5" href="$classmlir_1_1shard_1_1UpdateHaloPattern.html" title="Update halo sizes: handles cases where only the halo sizes differ between source and target sharding." alt="" coords="272,202,495,229"/>
+</map>

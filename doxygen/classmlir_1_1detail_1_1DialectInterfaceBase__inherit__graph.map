@@ -1,0 +1,6 @@
+<map id="mlir::detail::DialectInterfaceBase&lt; ConcreteType, BaseT &gt;" name="mlir::detail::DialectInterfaceBase&lt; ConcreteType, BaseT &gt;">
+<area shape="rect" id="node1" title="The base class used for all derived interface types." alt="" coords="17,80,237,121"/>
+<area shape="rect" id="node3" href="$classmlir_1_1ResourceBlobManagerDialectInterface.html" title="This class implements a dialect interface that provides common functionality for interacting with a r..." alt="" coords="11,169,242,225"/>
+<area shape="rect" id="node2" href="$classBaseT.html" title=" " alt="" coords="95,5,158,32"/>
+<area shape="rect" id="node4" href="$classmlir_1_1ResourceBlobManagerDialectInterfaceBase.html" title="This class provides a base class for dialects implementing the resource blob interface." alt="" coords="5,273,248,315"/>
+</map>

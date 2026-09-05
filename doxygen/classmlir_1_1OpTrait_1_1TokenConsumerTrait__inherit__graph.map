@@ -1,0 +1,5 @@
+<map id="mlir::OpTrait::TokenConsumerTrait&lt; ConcreteType &gt;" name="mlir::OpTrait::TokenConsumerTrait&lt; ConcreteType &gt;">
+<area shape="rect" id="node1" title="This trait marks operations that are allowed to consume builtin token values." alt="" coords="38,215,251,256"/>
+<area shape="rect" id="node2" href="$classmlir_1_1OpTrait_1_1TraitBase.html" title=" " alt="" coords="5,124,284,165"/>
+<area shape="rect" id="node3" href="$classmlir_1_1OpTrait_1_1TraitBase.html" title="Helper class for implementing traits." alt="" coords="41,5,248,47"/>
+</map>

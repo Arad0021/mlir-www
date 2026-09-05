@@ -1,0 +1,14 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" title=" " alt="" coords="5,443,117,470"/>
+<area shape="rect" id="node2" href="$structmlir_1_1Sliceable_1_1has__maybe__downcast_3_01T_00_01std_1_1void__t_3_01decltype_07_6T_1_1maybeDownCast_08_4_01_4.html" title=" " alt="" coords="168,5,445,76"/>
+<area shape="rect" id="node3" href="$structmlir_1_1detail_1_1HasFieldParser_3_01StorageType_00_01std_1_1void__t_3_01decltype_07sizeof4e9fe09d40d15f550b7ae370e15e851f.html" title=" " alt="" coords="165,100,448,200"/>
+<area shape="rect" id="node4" href="$structmlir_1_1detail_1_1IsKeyValueCompositional.html" title=" " alt="" coords="219,225,394,281"/>
+<area shape="rect" id="node5" href="$structmlir_1_1detail_1_1is__complex__t_3_01mlir_1_1NonFloatComplex_3_01T_01_4_01_4.html" title=" " alt="" coords="180,305,433,347"/>
+<area shape="rect" id="node6" href="$structmlir_1_1detail_1_1is__complex__t_3_01std_1_1complex_3_01T_01_4_01_4.html" title=" " alt="" coords="213,371,400,412"/>
+<area shape="rect" id="node7" href="$structmlir_1_1detail_1_1is__pair_3_01std_1_1pair_3_01Ts_8_8_8_01_4_01_4.html" title=" " alt="" coords="227,436,387,477"/>
+<area shape="rect" id="node8" href="$structmlir_1_1detail_1_1is__tuple_3_01std_1_1tuple_3_01Ts_8_8_8_01_4_01_4.html" title=" " alt="" coords="223,501,391,543"/>
+<area shape="rect" id="node9" href="$structmlir_1_1query_1_1matcher_1_1has__bound__match_3_01T_00_01std_1_1void__t_3_01decltype_07stdcf2451b5d3c307db1c18067b2733ca2a.html" title=" " alt="" coords="203,567,410,682"/>
+<area shape="rect" id="node10" href="$structmlir_1_1query_1_1matcher_1_1has__simple__match_3_01T_00_01std_1_1void__t_3_01decltype_07st1e0a0503d27a42df5b77d5f51e428c6a.html" title=" " alt="" coords="209,707,404,807"/>
+<area shape="rect" id="node11" href="$structmlir_1_1sparse__tensor_1_1detail_1_1is__complex_3_01mlir_1_1NonFloatComplex_3_01T_01_4_01_4.html" title=" " alt="" coords="213,831,401,901"/>
+<area shape="rect" id="node12" href="$structmlir_1_1sparse__tensor_1_1detail_1_1is__complex_3_01std_1_1complex_3_01T_01_4_01_4.html" title=" " alt="" coords="219,926,394,982"/>
+</map>
