@@ -1,0 +1,4 @@
+<map id="mlir::shard::SplitLastAxisPattern" name="mlir::shard::SplitLastAxisPattern">
+<area shape="rect" id="node1" title="Split a replicated axis: e.g. [[0, 1]] &#45;&gt; [[0, 1, 2]]." alt="" coords="23,80,207,121"/>
+<area shape="rect" id="node2" href="$classmlir_1_1shard_1_1ReshardingPattern.html" title="Base class for resharding patterns." alt="" coords="5,5,224,32"/>
+</map>

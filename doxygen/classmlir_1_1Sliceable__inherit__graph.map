@@ -1,0 +1,23 @@
+<map id="mlir::Sliceable&lt; Derived, ElementTy &gt;" name="mlir::Sliceable&lt; Derived, ElementTy &gt;">
+<area shape="rect" id="node1" title="A CRTP base class for pseudo&#45;containers willing to support Python&#45;type slicing access on top of index..." alt="" coords="5,395,191,437"/>
+<area shape="rect" id="node2" href="$classmlir_1_1Sliceable.html" title=" " alt="" coords="499,37,682,78"/>
+<area shape="rect" id="node4" href="$classmlir_1_1Sliceable.html" title=" " alt="" coords="487,113,695,154"/>
+<area shape="rect" id="node6" href="$classmlir_1_1Sliceable.html" title=" " alt="" coords="479,185,703,241"/>
+<area shape="rect" id="node8" href="$classmlir_1_1Sliceable.html" title=" " alt="" coords="495,273,686,314"/>
+<area shape="rect" id="node10" href="$classmlir_1_1Sliceable.html" title=" " alt="" coords="499,353,682,394"/>
+<area shape="rect" id="node12" href="$classmlir_1_1Sliceable.html" title=" " alt="" coords="475,423,706,465"/>
+<area shape="rect" id="node14" href="$classmlir_1_1Sliceable.html" title=" " alt="" coords="481,493,700,534"/>
+<area shape="rect" id="node16" href="$classmlir_1_1Sliceable.html" title=" " alt="" coords="467,565,715,606"/>
+<area shape="rect" id="node18" href="$classmlir_1_1Sliceable.html" title=" " alt="" coords="488,645,693,686"/>
+<area shape="rect" id="node20" href="$classmlir_1_1Sliceable.html" title=" " alt="" coords="471,739,711,781"/>
+<area shape="rect" id="node3" href="$classmlir_1_1python_1_1MLIR__BINDINGS__PYTHON__DOMAIN_1_1PyBlockPredecessors.html" title="A list of block predecessors." alt="" coords="764,19,981,75"/>
+<area shape="rect" id="node5" href="$classmlir_1_1python_1_1MLIR__BINDINGS__PYTHON__DOMAIN_1_1PyAffineMapExprList.html" title="A list of expressions contained in an affine map." alt="" coords="764,99,981,155"/>
+<area shape="rect" id="node7" href="$classmlir_1_1python_1_1MLIR__BINDINGS__PYTHON__DOMAIN_1_1PyIntegerSetConstraintList.html" title=" " alt="" coords="764,179,981,235"/>
+<area shape="rect" id="node9" href="$classmlir_1_1python_1_1MLIR__BINDINGS__PYTHON__DOMAIN_1_1PyRegionList.html" title="Regions of an op are fixed length and indexed numerically so are represented with a sequence&#45;like con..." alt="" coords="764,259,981,315"/>
+<area shape="rect" id="node11" href="$classmlir_1_1python_1_1MLIR__BINDINGS__PYTHON__DOMAIN_1_1PyBlockSuccessors.html" title="A list of block successors." alt="" coords="764,339,981,395"/>
+<area shape="rect" id="node13" href="$classmlir_1_1python_1_1MLIR__BINDINGS__PYTHON__DOMAIN_1_1PyOpOperands.html" title="A list of OpOperands." alt="" coords="764,419,981,475"/>
+<area shape="rect" id="node15" href="$classmlir_1_1python_1_1MLIR__BINDINGS__PYTHON__DOMAIN_1_1PyOpOperandList.html" title="A list of operation operands." alt="" coords="764,499,981,555"/>
+<area shape="rect" id="node17" href="$classmlir_1_1python_1_1MLIR__BINDINGS__PYTHON__DOMAIN_1_1PyBlockArgumentList.html" title="A list of block arguments." alt="" coords="764,579,981,635"/>
+<area shape="rect" id="node19" href="$classmlir_1_1python_1_1MLIR__BINDINGS__PYTHON__DOMAIN_1_1PyOpResultList.html" title="A list of operation results." alt="" coords="764,659,981,715"/>
+<area shape="rect" id="node21" href="$classmlir_1_1python_1_1MLIR__BINDINGS__PYTHON__DOMAIN_1_1PyOpSuccessors.html" title="A list of operation successors." alt="" coords="764,739,981,795"/>
+</map>

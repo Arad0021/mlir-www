@@ -1,0 +1,5 @@
+<map id="mlir::remark::detail::RemarkEmittingPolicyBase" name="mlir::remark::detail::RemarkEmittingPolicyBase">
+<area shape="rect" id="node1" title="Base class for MLIR remark emitting policies that is used to emit optimization remarks to the underly..." alt="" coords="131,5,337,47"/>
+<area shape="rect" id="node2" href="$classmlir_1_1remark_1_1RemarkEmittingPolicyAll.html" title="Policy that emits all remarks." alt="" coords="5,95,223,136"/>
+<area shape="rect" id="node3" href="$classmlir_1_1remark_1_1RemarkEmittingPolicyFinal.html" title="Policy that emits final remarks." alt="" coords="247,95,464,136"/>
+</map>

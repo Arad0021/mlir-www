@@ -1,0 +1,5 @@
+<map id="mlir::acc::DefaultACCToGPUMappingPolicy" name="mlir::acc::DefaultACCToGPUMappingPolicy">
+<area shape="rect" id="node1" title="Default policy that provides the standard GPU mapping: gang(dim:1) &#45;&gt; BlockX (gridDim...." alt="" coords="5,229,264,271"/>
+<area shape="rect" id="node2" href="$classmlir_1_1acc_1_1ACCParMappingPolicy.html" title=" " alt="" coords="27,124,243,180"/>
+<area shape="rect" id="node3" href="$classmlir_1_1acc_1_1ACCParMappingPolicy.html" title="Policy class that defines how OpenACC parallelism levels map to target&#45;specific parallel dimension at..." alt="" coords="40,5,229,47"/>
+</map>

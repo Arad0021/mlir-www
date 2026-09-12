@@ -1,0 +1,4 @@
+<map id="mlir::shard::MoveLastSplitAxisPattern" name="mlir::shard::MoveLastSplitAxisPattern">
+<area shape="rect" id="node1" title="Move the last split axis of one tensor dimension to the front of another tensor dimension&#39;s split axe..." alt="" coords="19,80,211,121"/>
+<area shape="rect" id="node2" href="$classmlir_1_1shard_1_1ReshardingPattern.html" title="Base class for resharding patterns." alt="" coords="5,5,224,32"/>
+</map>

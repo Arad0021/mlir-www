@@ -1,0 +1,7 @@
+<map id="mlir::python::MLIR_BINDINGS_PYTHON_DOMAIN::PyFloatAttribute" name="mlir::python::MLIR_BINDINGS_PYTHON_DOMAIN::PyFloatAttribute">
+<area shape="rect" id="node1" title="Float Point Attribute subclass &#45; FloatAttr." alt="" coords="1212,13,1429,69"/>
+<area shape="rect" id="node2" href="$classmlir_1_1python_1_1MLIR__BINDINGS__PYTHON__DOMAIN_1_1PyConcreteAttribute.html" title=" " alt="" coords="945,5,1163,76"/>
+<area shape="rect" id="node3" href="$classmlir_1_1python_1_1MLIR__BINDINGS__PYTHON__DOMAIN_1_1PyAttribute.html" title="Wrapper around the generic MlirAttribute." alt="" coords="272,14,489,70"/>
+<area shape="rect" id="node5" href="$classmlir_1_1python_1_1MLIR__BINDINGS__PYTHON__DOMAIN_1_1PyConcreteAttribute.html" title="CRTP base classes for Python attributes that subclass Attribute and should be castable from it (i...." alt="" coords="539,43,756,113"/>
+<area shape="rect" id="node4" href="$classmlir_1_1python_1_1MLIR__BINDINGS__PYTHON__DOMAIN_1_1BaseContextObject.html" title="Base class for all objects that directly or indirectly depend on an MlirContext." alt="" coords="5,14,223,70"/>
+</map>
