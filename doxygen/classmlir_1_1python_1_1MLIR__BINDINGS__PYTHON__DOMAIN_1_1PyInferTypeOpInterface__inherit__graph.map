@@ -1,0 +1,5 @@
+<map id="mlir::python::MLIR_BINDINGS_PYTHON_DOMAIN::PyInferTypeOpInterface" name="mlir::python::MLIR_BINDINGS_PYTHON_DOMAIN::PyInferTypeOpInterface">
+<area shape="rect" id="node1" title="Python wrapper for InferTypeOpInterface." alt="" coords="724,13,941,69"/>
+<area shape="rect" id="node2" href="$classmlir_1_1python_1_1MLIR__BINDINGS__PYTHON__DOMAIN_1_1PyConcreteOpInterface.html" title=" " alt="" coords="457,5,675,76"/>
+<area shape="rect" id="node3" href="$classmlir_1_1python_1_1MLIR__BINDINGS__PYTHON__DOMAIN_1_1PyConcreteOpInterface.html" title="CRTP base class for Python classes representing MLIR Op interfaces." alt="" coords="5,5,223,76"/>
+</map>

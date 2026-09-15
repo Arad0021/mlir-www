@@ -1,0 +1,5 @@
+<map id="mlir::xegpu::uArch::Subgroup2DBlockStoreInstruction" name="mlir::xegpu::uArch::Subgroup2DBlockStoreInstruction">
+<area shape="rect" id="node1" title=" " alt="" coords="50,95,298,136"/>
+<area shape="rect" id="node2" href="$structmlir_1_1xegpu_1_1uArch_1_1Instruction.html" title=" " alt="" coords="5,5,145,47"/>
+<area shape="rect" id="node3" href="$structmlir_1_1xegpu_1_1uArch_1_1BlockIOInstructionInterface.html" title=" " alt="" coords="169,5,376,47"/>
+</map>
