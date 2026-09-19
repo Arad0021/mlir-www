@@ -1,0 +1,4 @@
+<map id="mlir::Sliceable&lt; Derived, ElementTy &gt;::has_maybe_downcast&lt; T, typename &gt;" name="mlir::Sliceable&lt; Derived, ElementTy &gt;::has_maybe_downcast&lt; T, typename &gt;">
+<area shape="rect" id="node1" title="Trait to check if T provides a maybeDownCast method." alt="" coords="5,80,208,136"/>
+<area shape="rect" id="node2" title=" " alt="" coords="47,5,166,32"/>
+</map>

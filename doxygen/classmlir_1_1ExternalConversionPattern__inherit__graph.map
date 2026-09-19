@@ -1,0 +1,6 @@
+<map id="mlir::ExternalConversionPattern" name="mlir::ExternalConversionPattern">
+<area shape="rect" id="node1" title=" " alt="" coords="5,229,188,271"/>
+<area shape="rect" id="node2" href="$classmlir_1_1ConversionPattern.html" title="Base class for the conversion patterns." alt="" coords="9,155,184,181"/>
+<area shape="rect" id="node3" href="$classmlir_1_1RewritePattern.html" title="RewritePattern is the common base class for all DAG to DAG replacements." alt="" coords="21,80,173,107"/>
+<area shape="rect" id="node4" href="$classmlir_1_1Pattern.html" title="This class contains all of the data related to a pattern, but does not contain any methods or logic f..." alt="" coords="45,5,148,32"/>
+</map>

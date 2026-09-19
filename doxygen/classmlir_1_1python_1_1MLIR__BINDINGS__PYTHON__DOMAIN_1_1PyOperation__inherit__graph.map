@@ -1,0 +1,5 @@
+<map id="mlir::python::MLIR_BINDINGS_PYTHON_DOMAIN::PyOperation" name="mlir::python::MLIR_BINDINGS_PYTHON_DOMAIN::PyOperation">
+<area shape="rect" id="node1" title=" " alt="" coords="271,45,488,101"/>
+<area shape="rect" id="node2" href="$classmlir_1_1python_1_1MLIR__BINDINGS__PYTHON__DOMAIN_1_1PyOperationBase.html" title="Base class for PyOperation and PyOpView which exposes the primary, user visible methods for manipulat..." alt="" coords="5,5,223,61"/>
+<area shape="rect" id="node3" href="$classmlir_1_1python_1_1MLIR__BINDINGS__PYTHON__DOMAIN_1_1BaseContextObject.html" title="Base class for all objects that directly or indirectly depend on an MlirContext." alt="" coords="5,85,223,141"/>
+</map>
