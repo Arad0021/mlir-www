@@ -1,0 +1,9 @@
+<map id="mlir::python::MLIR_BINDINGS_PYTHON_DOMAIN::PyDenseFPElementsAttribute" name="mlir::python::MLIR_BINDINGS_PYTHON_DOMAIN::PyDenseFPElementsAttribute">
+<area shape="rect" id="node1" title="Refinement of PyDenseElementsAttribute for attributes containing floating&#45;point values." alt="" coords="2031,70,2252,126"/>
+<area shape="rect" id="node2" href="$classmlir_1_1python_1_1MLIR__BINDINGS__PYTHON__DOMAIN_1_1PyConcreteAttribute.html" title=" " alt="" coords="1760,55,1981,141"/>
+<area shape="rect" id="node3" href="$classmlir_1_1python_1_1MLIR__BINDINGS__PYTHON__DOMAIN_1_1PyDenseElementsAttribute.html" title=" " alt="" coords="1493,17,1711,73"/>
+<area shape="rect" id="node4" href="$classmlir_1_1python_1_1MLIR__BINDINGS__PYTHON__DOMAIN_1_1PyConcreteAttribute.html" title=" " alt="" coords="1013,5,1231,76"/>
+<area shape="rect" id="node5" href="$classmlir_1_1python_1_1MLIR__BINDINGS__PYTHON__DOMAIN_1_1PyAttribute.html" title="Wrapper around the generic MlirAttribute." alt="" coords="272,45,489,101"/>
+<area shape="rect" id="node7" href="$classmlir_1_1python_1_1MLIR__BINDINGS__PYTHON__DOMAIN_1_1PyConcreteAttribute.html" title="CRTP base classes for Python attributes that subclass Attribute and should be castable from it (i...." alt="" coords="539,73,756,144"/>
+<area shape="rect" id="node6" href="$classmlir_1_1python_1_1MLIR__BINDINGS__PYTHON__DOMAIN_1_1BaseContextObject.html" title="Base class for all objects that directly or indirectly depend on an MlirContext." alt="" coords="5,45,223,101"/>
+</map>
