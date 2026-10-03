@@ -1,0 +1,5 @@
+<map id="mlir::OpTrait::DistinctObjectsTrait&lt; ConcreteType &gt;" name="mlir::OpTrait::DistinctObjectsTrait&lt; ConcreteType &gt;">
+<area shape="rect" id="node1" title="This trai indicates that pointer&#45;like objects (such as memrefs) returned from this operation will nev..." alt="" coords="17,229,226,271"/>
+<area shape="rect" id="node2" href="$classmlir_1_1OpTrait_1_1TraitBase.html" title=" " alt="" coords="5,124,237,180"/>
+<area shape="rect" id="node3" href="$classmlir_1_1OpTrait_1_1TraitBase.html" title="Helper class for implementing traits." alt="" coords="18,5,225,47"/>
+</map>

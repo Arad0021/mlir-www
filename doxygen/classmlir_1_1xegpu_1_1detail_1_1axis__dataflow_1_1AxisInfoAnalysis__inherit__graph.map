@@ -1,0 +1,7 @@
+<map id="mlir::xegpu::detail::axis_dataflow::AxisInfoAnalysis" name="mlir::xegpu::detail::axis_dataflow::AxisInfoAnalysis">
+<area shape="rect" id="node1" title="Sparse forward dataflow analysis that computes AxisInfo for vector values reachable from the entry of..." alt="" coords="1223,5,1457,47"/>
+<area shape="rect" id="node2" href="$classmlir_1_1dataflow_1_1SparseForwardDataFlowAnalysis.html" title=" " alt="" coords="907,5,1173,47"/>
+<area shape="rect" id="node3" href="$classmlir_1_1dataflow_1_1AbstractSparseForwardDataFlowAnalysis.html" title="Base class for sparse forward data&#45;flow analyses." alt="" coords="228,5,463,47"/>
+<area shape="rect" id="node5" href="$classmlir_1_1dataflow_1_1SparseForwardDataFlowAnalysis.html" title="A sparse forward data&#45;flow analysis for propagating SSA value lattices across the IR by implementing ..." alt="" coords="512,35,727,76"/>
+<area shape="rect" id="node4" href="$classmlir_1_1DataFlowAnalysis.html" title="Base class for all data&#45;flow analyses." alt="" coords="5,13,179,39"/>
+</map>

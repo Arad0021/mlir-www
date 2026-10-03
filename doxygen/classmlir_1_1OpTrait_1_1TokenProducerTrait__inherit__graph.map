@@ -1,0 +1,5 @@
+<map id="mlir::OpTrait::TokenProducerTrait&lt; ConcreteType &gt;" name="mlir::OpTrait::TokenProducerTrait&lt; ConcreteType &gt;">
+<area shape="rect" id="node1" title="This trait marks operations that are allowed to produce builtin token values." alt="" coords="39,215,243,256"/>
+<area shape="rect" id="node2" href="$classmlir_1_1OpTrait_1_1TraitBase.html" title=" " alt="" coords="5,124,276,165"/>
+<area shape="rect" id="node3" href="$classmlir_1_1OpTrait_1_1TraitBase.html" title="Helper class for implementing traits." alt="" coords="37,5,244,47"/>
+</map>
