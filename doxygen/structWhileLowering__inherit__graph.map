@@ -1,0 +1,11 @@
+<map id="WhileLowering" name="WhileLowering">
+<area shape="rect" id="node1" title=" " alt="" coords="1224,62,1343,89"/>
+<area shape="rect" id="node2" href="$structmlir_1_1OpRewritePattern.html" title=" " alt="" coords="993,21,1163,63"/>
+<area shape="rect" id="node3" href="$structmlir_1_1detail_1_1OpOrInterfaceRewritePatternBase.html" title="OpOrInterfaceRewritePatternBase is a wrapper around RewritePattern that allows for matching and rewri..." alt="" coords="359,25,601,67"/>
+<area shape="rect" id="node6" href="$structmlir_1_1OpRewritePattern.html" title="OpRewritePattern is a wrapper around RewritePattern that allows for matching and rewriting against an..." alt="" coords="662,25,833,67"/>
+<area shape="rect" id="node4" href="$classmlir_1_1RewritePattern.html" title="RewritePattern is the common base class for all DAG to DAG replacements." alt="" coords="157,63,309,90"/>
+<area shape="rect" id="node8" href="$classmlir_1_1ConversionPattern.html" title="Base class for the conversion patterns." alt="" coords="393,91,567,118"/>
+<area shape="rect" id="node5" href="$classmlir_1_1Pattern.html" title="This class contains all of the data related to a pattern, but does not contain any methods or logic f..." alt="" coords="5,63,108,90"/>
+<area shape="rect" id="node7" href="$classmlir_1_1OpConversionPattern.html" title=" " alt="" coords="981,87,1175,128"/>
+<area shape="rect" id="node9" href="$classmlir_1_1OpConversionPattern.html" title="OpConversionPattern is a wrapper around ConversionPattern that allows for matching and rewriting agai..." alt="" coords="651,143,844,184"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="ErrorCapture" name="ErrorCapture">
+<area shape="rect" id="node1" title=" " alt="" coords="62,5,166,32"/>
+<area shape="rect" id="node2" href="$classmlir_1_1python_1_1MLIR__BINDINGS__PYTHON__DOMAIN_1_1PyMlirContext.html" title="RAII object that captures any error diagnostics emitted to the provided context." alt="" coords="5,80,223,136"/>
+</map>
