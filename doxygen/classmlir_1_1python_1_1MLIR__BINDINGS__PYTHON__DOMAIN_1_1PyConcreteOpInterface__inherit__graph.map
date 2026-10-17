@@ -1,0 +1,15 @@
+<map id="mlir::python::MLIR_BINDINGS_PYTHON_DOMAIN::PyConcreteOpInterface&lt; ConcreteIface &gt;" name="mlir::python::MLIR_BINDINGS_PYTHON_DOMAIN::PyConcreteOpInterface&lt; ConcreteIface &gt;">
+<area shape="rect" id="node1" title="CRTP base class for Python classes representing MLIR Op interfaces." alt="" coords="5,268,223,339"/>
+<area shape="rect" id="node2" href="$classmlir_1_1python_1_1MLIR__BINDINGS__PYTHON__DOMAIN_1_1PyConcreteOpInterface.html" title=" " alt="" coords="531,5,748,76"/>
+<area shape="rect" id="node4" href="$classmlir_1_1python_1_1MLIR__BINDINGS__PYTHON__DOMAIN_1_1PyConcreteOpInterface.html" title=" " alt="" coords="531,100,748,171"/>
+<area shape="rect" id="node6" href="$classmlir_1_1python_1_1MLIR__BINDINGS__PYTHON__DOMAIN_1_1PyConcreteOpInterface.html" title=" " alt="" coords="519,195,760,281"/>
+<area shape="rect" id="node8" href="$classmlir_1_1python_1_1MLIR__BINDINGS__PYTHON__DOMAIN_1_1PyConcreteOpInterface.html" title=" " alt="" coords="511,305,768,376"/>
+<area shape="rect" id="node10" href="$classmlir_1_1python_1_1MLIR__BINDINGS__PYTHON__DOMAIN_1_1PyConcreteOpInterface.html" title=" " alt="" coords="518,400,761,471"/>
+<area shape="rect" id="node12" href="$classmlir_1_1python_1_1MLIR__BINDINGS__PYTHON__DOMAIN_1_1PyConcreteOpInterface.html" title=" " alt="" coords="513,495,765,565"/>
+<area shape="rect" id="node3" href="$classmlir_1_1python_1_1MLIR__BINDINGS__PYTHON__DOMAIN_1_1transform_1_1PyTransformOpInterface.html" title=" " alt="" coords="817,13,1076,69"/>
+<area shape="rect" id="node5" href="$classmlir_1_1python_1_1MLIR__BINDINGS__PYTHON__DOMAIN_1_1PyInferTypeOpInterface.html" title="Python wrapper for InferTypeOpInterface." alt="" coords="838,107,1055,163"/>
+<area shape="rect" id="node7" href="$classmlir_1_1python_1_1MLIR__BINDINGS__PYTHON__DOMAIN_1_1PyConditionallySpeculatableOpInterface.html" title="Wrapper around the ConditionallySpeculatable interface." alt="" coords="829,203,1064,273"/>
+<area shape="rect" id="node9" href="$classmlir_1_1python_1_1MLIR__BINDINGS__PYTHON__DOMAIN_1_1transform_1_1PyPatternDescriptorOpInterface.html" title=" " alt="" coords="831,305,1062,376"/>
+<area shape="rect" id="node11" href="$classmlir_1_1python_1_1MLIR__BINDINGS__PYTHON__DOMAIN_1_1PyMemoryEffectsOpInterface.html" title="Wrapper around the MemoryEffectsOpInterface." alt="" coords="837,407,1057,463"/>
+<area shape="rect" id="node13" href="$classmlir_1_1python_1_1MLIR__BINDINGS__PYTHON__DOMAIN_1_1PyInferShapedTypeOpInterface.html" title="Python wrapper for InferShapedTypeOpInterface." alt="" coords="831,502,1062,558"/>
+</map>
