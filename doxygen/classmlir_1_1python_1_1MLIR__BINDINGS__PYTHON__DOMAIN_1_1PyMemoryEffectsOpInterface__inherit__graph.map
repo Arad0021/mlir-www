@@ -1,0 +1,5 @@
+<map id="mlir::python::MLIR_BINDINGS_PYTHON_DOMAIN::PyMemoryEffectsOpInterface" name="mlir::python::MLIR_BINDINGS_PYTHON_DOMAIN::PyMemoryEffectsOpInterface">
+<area shape="rect" id="node1" title="Wrapper around the MemoryEffectsOpInterface." alt="" coords="788,13,1008,69"/>
+<area shape="rect" id="node2" href="$classmlir_1_1python_1_1MLIR__BINDINGS__PYTHON__DOMAIN_1_1PyConcreteOpInterface.html" title=" " alt="" coords="496,5,739,76"/>
+<area shape="rect" id="node3" href="$classmlir_1_1python_1_1MLIR__BINDINGS__PYTHON__DOMAIN_1_1PyConcreteOpInterface.html" title="CRTP base class for Python classes representing MLIR Op interfaces." alt="" coords="5,5,223,76"/>
+</map>
