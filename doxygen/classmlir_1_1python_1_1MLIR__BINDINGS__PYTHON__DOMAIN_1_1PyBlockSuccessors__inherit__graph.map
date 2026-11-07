@@ -1,0 +1,5 @@
+<map id="mlir::python::MLIR_BINDINGS_PYTHON_DOMAIN::PyBlockSuccessors" name="mlir::python::MLIR_BINDINGS_PYTHON_DOMAIN::PyBlockSuccessors">
+<area shape="rect" id="node1" title="A list of block successors." alt="" coords="5,215,223,271"/>
+<area shape="rect" id="node2" href="$classmlir_1_1Sliceable.html" title=" " alt="" coords="23,124,205,165"/>
+<area shape="rect" id="node3" href="$classmlir_1_1Sliceable.html" title="A CRTP base class for pseudo&#45;containers willing to support Python&#45;type slicing access on top of index..." alt="" coords="21,5,207,47"/>
+</map>

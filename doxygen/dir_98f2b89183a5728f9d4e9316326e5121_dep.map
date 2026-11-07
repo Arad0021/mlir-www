@@ -1,0 +1,40 @@
+<map id="include/mlir/Dialect/SPIRV" name="include/mlir/Dialect/SPIRV">
+<area shape="rect" id="node1" href="dir_bfd3493254b3df47293537524626123b.html" title="Vector" alt="" coords="464,159,536,207"/>
+<area shape="rect" id="node8" href="dir_84ef7c054b4edc3447cfba80cee80f65.html" title="IR" alt="" coords="667,351,739,399"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000175_000057.html" title="10" alt="" coords="662,325,679,339"/>
+<area shape="rect" id="node9" href="dir_cf63c3ddb21c79ef735682489f4c6a69.html" title="Interfaces" alt="" coords="586,447,673,495"/>
+<area shape="rect" id="edge5-headlabel" href="dir_000175_000321.html" title="12" alt="" coords="610,419,628,434"/>
+<area shape="rect" id="node10" href="dir_f61d47671007dfdb592580b61f960d39.html" title="Support" alt="" coords="675,543,747,591"/>
+<area shape="rect" id="edge6-headlabel" href="dir_000175_000251.html" title="1" alt="" coords="652,549,661,564"/>
+<area shape="rect" id="node11" href="dir_cab9f8330899b1cc9d753b1d9c5c5a3e.html" title="Pass" alt="" coords="768,255,840,303"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000175_000064.html" title="1" alt="" coords="748,246,758,260"/>
+<area shape="rect" id="node3" href="dir_9cdeb4cb7e7d1dc10e757e433fbfed49.html" title="Interfaces" alt="" coords="230,255,317,303"/>
+<area shape="rect" id="node4" href="dir_9e687c563d07114e1f35bb9eabc86a7f.html" title="IR" alt="" coords="237,159,309,207"/>
+<area shape="rect" id="edge21-headlabel" href="dir_000293_000292.html" title="1" alt="" coords="277,229,286,244"/>
+<area shape="rect" id="edge20-headlabel" href="dir_000293_000057.html" title="16" alt="" coords="644,339,661,354"/>
+<area shape="rect" id="edge22-headlabel" href="dir_000293_000321.html" title="6" alt="" coords="573,423,583,437"/>
+<area shape="rect" id="edge23-headlabel" href="dir_000293_000251.html" title="3" alt="" coords="652,546,662,561"/>
+<area shape="rect" id="node5" href="dir_22d148667e9610cecad2c299f9e94af2.html" title="Linking" alt="" coords="275,63,347,111"/>
+<area shape="rect" id="edge7-headlabel" href="dir_000294_000057.html" title="1" alt="" coords="753,372,763,387"/>
+<area shape="rect" id="edge8-headlabel" href="dir_000294_000251.html" title="1" alt="" coords="762,554,771,569"/>
+<area shape="rect" id="node6" href="dir_0b8c605e3717abae20ac5f70977761f8.html" title="Transforms" alt="" coords="155,63,250,111"/>
+<area shape="rect" id="edge15-headlabel" href="dir_000170_000175.html" title="1" alt="" coords="445,139,454,154"/>
+<area shape="rect" id="edge14-headlabel" href="dir_000170_000293.html" title="5" alt="" coords="247,132,256,146"/>
+<area shape="rect" id="edge13-headlabel" href="dir_000170_000057.html" title="1" alt="" coords="690,323,700,338"/>
+<area shape="rect" id="edge17-headlabel" href="dir_000170_000064.html" title="1" alt="" coords="817,231,826,246"/>
+<area shape="rect" id="node12" href="dir_ca4d1f3bc4cd42ba07a57ca86d19a1d6.html" title="Transforms" alt="" coords="689,159,783,207"/>
+<area shape="rect" id="edge16-headlabel" href="dir_000170_000182.html" title="2" alt="" coords="669,143,678,158"/>
+<area shape="rect" id="node7" href="dir_df2d92f850c9715053cd295e230b9095.html" title="Utils" alt="" coords="59,63,131,111"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000057_000321.html" title="3" alt="" coords="652,429,661,444"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000057_000251.html" title="24" alt="" coords="709,517,726,531"/>
+<area shape="rect" id="edge18-headlabel" href="dir_000321_000057.html" title="52" alt="" coords="666,402,684,416"/>
+<area shape="rect" id="edge19-headlabel" href="dir_000321_000251.html" title="2" alt="" coords="680,516,690,531"/>
+<area shape="rect" id="edge24-headlabel" href="dir_000064_000057.html" title="4" alt="" coords="742,337,751,352"/>
+<area shape="rect" id="edge25-headlabel" href="dir_000064_000251.html" title="6" alt="" coords="727,520,736,535"/>
+<area shape="rect" id="edge9-headlabel" href="dir_000182_000057.html" title="19" alt="" coords="709,327,727,341"/>
+<area shape="rect" id="edge11-headlabel" href="dir_000182_000321.html" title="4" alt="" coords="639,423,648,437"/>
+<area shape="rect" id="edge12-headlabel" href="dir_000182_000251.html" title="6" alt="" coords="744,526,753,541"/>
+<area shape="rect" id="edge10-headlabel" href="dir_000182_000064.html" title="4" alt="" coords="779,228,788,242"/>
+<area shape="rect" id="clust2" href="dir_98f2b89183a5728f9d4e9316326e5121.html" alt="" coords="48,52,453,313"/>
+<area shape="rect" id="clust1" href="dir_d07a6fac82475a065a3b2953573f00a0.html" title="Dialect" alt="" coords="37,16,547,324"/>
+</map>
