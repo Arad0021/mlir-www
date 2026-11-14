@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classmlir_1_1acc_1_1ACCParMappingPolicy.html" title=" " alt="" coords="5,5,221,61"/>
+<area shape="rect" id="node2" href="$classmlir_1_1acc_1_1DefaultACCToGPUMappingPolicy.html" title="Default policy that provides the standard GPU mapping: gang(dim:1) &#45;&gt; BlockX (gridDim...." alt="" coords="269,13,528,54"/>
+</map>

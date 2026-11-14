@@ -1,0 +1,29 @@
+<map id="include/mlir/Dialect/XeGPU/IR" name="include/mlir/Dialect/XeGPU/IR">
+<area shape="rect" id="node1" href="dir_af87213b2c87ceb3ff163e266458ce84.html" title="IR" alt="" coords="139,52,211,100"/>
+<area shape="rect" id="node2" href="dir_51020c1b0909ae629a35fe1c65c620b9.html" title="Bytecode" alt="" coords="95,148,177,196"/>
+<area shape="rect" id="edge5-headlabel" href="dir_000318_000060.html" title="1" alt="" coords="156,127,165,142"/>
+<area shape="rect" id="node3" href="dir_687ef06ec02158f82af83f8ed0273ebe.html" title="Arith" alt="" coords="101,532,173,580"/>
+<area shape="rect" id="edge6-headlabel" href="dir_000318_000020.html" title="1" alt="" coords="94,506,104,521"/>
+<area shape="rect" id="node4" href="dir_84ef7c054b4edc3447cfba80cee80f65.html" title="IR" alt="" coords="101,244,173,292"/>
+<area shape="rect" id="edge7-headlabel" href="dir_000318_000057.html" title="3" alt="" coords="173,228,183,243"/>
+<area shape="rect" id="node5" href="dir_bfd3493254b3df47293537524626123b.html" title="Vector" alt="" coords="252,148,324,196"/>
+<area shape="rect" id="edge8-headlabel" href="dir_000318_000175.html" title="1" alt="" coords="247,122,256,137"/>
+<area shape="rect" id="node6" href="dir_cf63c3ddb21c79ef735682489f4c6a69.html" title="Interfaces" alt="" coords="94,340,181,388"/>
+<area shape="rect" id="edge9-headlabel" href="dir_000318_000323.html" title="3" alt="" coords="108,313,118,327"/>
+<area shape="rect" id="node7" href="dir_e4893b20171f621ff7a85b39656091a7.html" title="Utils" alt="" coords="183,436,255,484"/>
+<area shape="rect" id="edge10-headlabel" href="dir_000318_000310.html" title="1" alt="" coords="255,420,264,435"/>
+<area shape="rect" id="edge17-headlabel" href="dir_000060_000057.html" title="7" alt="" coords="131,218,141,232"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000020_000057.html" title="5" alt="" coords="90,293,99,308"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000020_000323.html" title="1" alt="" coords="124,399,134,414"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000057_000060.html" title="2" alt="" coords="133,208,142,223"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000057_000323.html" title="2" alt="" coords="132,314,141,329"/>
+<area shape="rect" id="edge11-headlabel" href="dir_000175_000020.html" title="2" alt="" coords="189,540,198,555"/>
+<area shape="rect" id="edge12-headlabel" href="dir_000175_000057.html" title="10" alt="" coords="185,234,202,249"/>
+<area shape="rect" id="edge13-headlabel" href="dir_000175_000323.html" title="3" alt="" coords="169,323,178,338"/>
+<area shape="rect" id="edge14-headlabel" href="dir_000175_000310.html" title="1" alt="" coords="232,413,241,427"/>
+<area shape="rect" id="edge18-headlabel" href="dir_000323_000057.html" title="49" alt="" coords="129,304,147,318"/>
+<area shape="rect" id="edge19-headlabel" href="dir_000323_000310.html" title="1" alt="" coords="189,409,198,424"/>
+<area shape="rect" id="edge15-headlabel" href="dir_000310_000020.html" title="1" alt="" coords="171,516,180,531"/>
+<area shape="rect" id="edge16-headlabel" href="dir_000310_000057.html" title="12" alt="" coords="156,304,173,319"/>
+<area shape="rect" id="clust1" href="dir_5af423df3a2327edcd5f90b3d7e3f636.html" title="XeGPU" alt="" coords="128,16,221,111"/>
+</map>

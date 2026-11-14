@@ -1,0 +1,8 @@
+<map id="mlir::python::MLIR_BINDINGS_PYTHON_DOMAIN::quant::UniformQuantizedSubChannelType" name="mlir::python::MLIR_BINDINGS_PYTHON_DOMAIN::quant::UniformQuantizedSubChannelType">
+<area shape="rect" id="node1" title=" " alt="" coords="1339,28,1640,84"/>
+<area shape="rect" id="node2" href="$classmlir_1_1python_1_1MLIR__BINDINGS__PYTHON__DOMAIN_1_1PyConcreteType.html" title=" " alt="" coords="1021,21,1289,91"/>
+<area shape="rect" id="node3" title=" " alt="" coords="589,5,707,32"/>
+<area shape="rect" id="node4" href="$classmlir_1_1python_1_1MLIR__BINDINGS__PYTHON__DOMAIN_1_1PyConcreteType.html" title="CRTP base classes for Python types that subclass Type and should be castable from it (i...." alt="" coords="539,57,757,127"/>
+<area shape="rect" id="node5" href="$classmlir_1_1python_1_1MLIR__BINDINGS__PYTHON__DOMAIN_1_1PyType.html" title="Wrapper around the generic MlirType." alt="" coords="272,64,489,120"/>
+<area shape="rect" id="node6" href="$classmlir_1_1python_1_1MLIR__BINDINGS__PYTHON__DOMAIN_1_1BaseContextObject.html" title="Base class for all objects that directly or indirectly depend on an MlirContext." alt="" coords="5,64,223,120"/>
+</map>
