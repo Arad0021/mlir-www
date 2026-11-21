@@ -1,0 +1,14 @@
+<map id="mlir::xegpu::uArch::Instruction" name="mlir::xegpu::uArch::Instruction">
+<area shape="rect" id="node1" title=" " alt="" coords="5,288,145,329"/>
+<area shape="rect" id="node2" href="$structmlir_1_1xegpu_1_1uArch_1_1ScatterIoInstructionInterface.html" title=" " alt="" coords="635,206,873,262"/>
+<area shape="rect" id="node4" href="$structmlir_1_1xegpu_1_1uArch_1_1ScatterIoInstructionInterface.html" title=" " alt="" coords="637,298,871,354"/>
+<area shape="rect" id="node6" href="$structmlir_1_1xegpu_1_1uArch_1_1BlockIOInstructionInterface.html" title=" " alt="" coords="217,88,424,129"/>
+<area shape="rect" id="node10" href="$structmlir_1_1xegpu_1_1uArch_1_1ScatterIoInstructionInterface.html" title=" " alt="" coords="213,247,428,303"/>
+<area shape="rect" id="node11" href="$structmlir_1_1xegpu_1_1uArch_1_1SubgroupMatrixMultiplyAcc.html" title=" " alt="" coords="216,379,425,420"/>
+<area shape="rect" id="node12" href="$structmlir_1_1xegpu_1_1uArch_1_1SubgroupScaledMatrixMultiplyAcc.html" title=" " alt="" coords="195,444,447,485"/>
+<area shape="rect" id="node3" href="$structmlir_1_1xegpu_1_1uArch_1_1StoreScatterInstruction.html" title=" " alt="" coords="937,213,1116,255"/>
+<area shape="rect" id="node5" href="$structmlir_1_1xegpu_1_1uArch_1_1LoadGatherInstruction.html" title=" " alt="" coords="939,305,1114,347"/>
+<area shape="rect" id="node7" href="$structmlir_1_1xegpu_1_1uArch_1_1Subgroup2DBlockLoadInstruction.html" title=" " alt="" coords="631,71,877,112"/>
+<area shape="rect" id="node8" href="$structmlir_1_1xegpu_1_1uArch_1_1Subgroup2DBlockPrefetchInstruction.html" title=" " alt="" coords="620,136,888,177"/>
+<area shape="rect" id="node9" href="$structmlir_1_1xegpu_1_1uArch_1_1Subgroup2DBlockStoreInstruction.html" title=" " alt="" coords="630,5,878,47"/>
+</map>
