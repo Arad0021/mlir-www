@@ -1,0 +1,6 @@
+<map id="mlir::python::MLIR_BINDINGS_PYTHON_DOMAIN::PyConversionPatternRewriter" name="mlir::python::MLIR_BINDINGS_PYTHON_DOMAIN::PyConversionPatternRewriter">
+<area shape="rect" id="node1" title=" " alt="" coords="35,335,255,391"/>
+<area shape="rect" id="node2" href="$classmlir_1_1python_1_1MLIR__BINDINGS__PYTHON__DOMAIN_1_1PyPatternRewriter.html" title=" " alt="" coords="37,229,254,285"/>
+<area shape="rect" id="node3" href="$classmlir_1_1python_1_1MLIR__BINDINGS__PYTHON__DOMAIN_1_1PyRewriterBase.html" title=" " alt="" coords="5,124,285,180"/>
+<area shape="rect" id="node4" href="$classmlir_1_1python_1_1MLIR__BINDINGS__PYTHON__DOMAIN_1_1PyRewriterBase.html" title="CRTP Base class for rewriter wrappers." alt="" coords="31,5,259,61"/>
+</map>

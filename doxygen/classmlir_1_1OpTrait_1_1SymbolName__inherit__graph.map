@@ -1,0 +1,5 @@
+<map id="mlir::OpTrait::SymbolName&lt; ConcreteType &gt;" name="mlir::OpTrait::SymbolName&lt; ConcreteType &gt;">
+<area shape="rect" id="node1" title="A trait that provides the name accessors for symbol operations that store their name in the conventio..." alt="" coords="24,200,223,241"/>
+<area shape="rect" id="node2" href="$classmlir_1_1OpTrait_1_1TraitBase.html" title=" " alt="" coords="5,109,241,151"/>
+<area shape="rect" id="node3" href="$classmlir_1_1OpTrait_1_1TraitBase.html" title="Helper class for implementing traits." alt="" coords="20,5,227,47"/>
+</map>

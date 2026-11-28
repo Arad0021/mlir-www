@@ -1,0 +1,51 @@
+<map id="BaseT" name="BaseT">
+<area shape="rect" id="node1" title=" " alt="" coords="5,1581,68,1608"/>
+<area shape="rect" id="node2" href="$classmlir_1_1PassWrapper.html" title="This class provides a CRTP wrapper around a base pass class to define several necessary utility metho..." alt="" coords="152,701,303,742"/>
+<area shape="rect" id="node4" href="$classmlir_1_1detail_1_1AsmParserImpl.html" title="This class provides the implementation of the generic parser methods within AsmParser." alt="" coords="128,1435,327,1477"/>
+<area shape="rect" id="node5" href="$classmlir_1_1detail_1_1DialectInterfaceBase.html" title="The base class used for all derived interface types." alt="" coords="117,1501,337,1542"/>
+<area shape="rect" id="node7" href="$classmlir_1_1detail_1_1StorageUserBase.html" title="Utility class for implementing users of storage classes uniqued by a StorageUniquer." alt="" coords="123,1567,332,1623"/>
+<area shape="rect" id="node38" href="$classmlir_1_1pdl__to__pdl__interp_1_1PredicateBase.html" title="Base class for all predicates, used to allow efficient pointer comparison." alt="" coords="123,3177,331,3233"/>
+<area shape="rect" id="node48" href="$classmlir_1_1pdl__to__pdl__interp_1_1PredicateBase_3_01ConcreteT_00_01BaseT_00_01void_00_01Kind_01_4.html" title="Base storage for simple predicates that only unique with the kind." alt="" coords="123,3257,331,3313"/>
+<area shape="rect" id="node49" href="$classmlir_1_1pdll_1_1ast_1_1Node_1_1NodeBase.html" title="This CRTP class provides several utilies when defining new AST nodes." alt="" coords="136,3338,319,3379"/>
+<area shape="rect" id="node3" href="$classmlir_1_1PassWrapper.html" title=" " alt="" coords="706,24,866,80"/>
+<area shape="rect" id="node6" href="$classmlir_1_1ResourceBlobManagerDialectInterface.html" title="This class implements a dialect interface that provides common functionality for interacting with a r..." alt="" coords="671,104,901,160"/>
+<area shape="rect" id="node8" href="$classmlir_1_1DynamicAttr.html" title="A dynamic attribute instance." alt="" coords="673,185,899,255"/>
+<area shape="rect" id="node9" href="$classmlir_1_1DynamicType.html" title="A dynamic type instance." alt="" coords="679,279,893,350"/>
+<area shape="rect" id="node10" href="$classmlir_1_1gpu_1_1AsyncTokenType.html" title=" " alt="" coords="689,375,883,431"/>
+<area shape="rect" id="node11" href="$classmlir_1_1gpu_1_1MMAMatrixType.html" title="MMAMatrix represents a matrix held by a subgroup for matrix&#45;matrix multiply accumulate operations." alt="" coords="637,455,935,526"/>
+<area shape="rect" id="node12" href="$classmlir_1_1gpu_1_1NamedBarrierType.html" title=" " alt="" coords="681,551,891,607"/>
+<area shape="rect" id="node13" href="$classmlir_1_1gpu_1_1SparseDnTensorHandleType.html" title=" " alt="" coords="655,631,917,687"/>
+<area shape="rect" id="node14" href="$classmlir_1_1gpu_1_1SparseSpGEMMOpHandleType.html" title=" " alt="" coords="647,711,925,767"/>
+<area shape="rect" id="node15" href="$classmlir_1_1gpu_1_1SparseSpMatHandleType.html" title=" " alt="" coords="670,791,902,847"/>
+<area shape="rect" id="node16" href="$classmlir_1_1quant_1_1AnyQuantizedType.html" title="A quantized type that maps storage to/from expressed types in an unspecified way." alt="" coords="682,871,890,942"/>
+<area shape="rect" id="node17" href="$classmlir_1_1quant_1_1CalibratedQuantizedType.html" title="A quantized type that infers its range from given min/max values." alt="" coords="632,966,940,1037"/>
+<area shape="rect" id="node18" href="$classmlir_1_1quant_1_1QuantileType.html" title=" " alt="" coords="683,1061,889,1147"/>
+<area shape="rect" id="node19" href="$classmlir_1_1quant_1_1UniformQuantizedPerAxisType.html" title="Represents per&#45;axis (also known as per&#45;channel quantization)." alt="" coords="639,1171,933,1242"/>
+<area shape="rect" id="node20" href="$classmlir_1_1quant_1_1UniformQuantizedSubChannelType.html" title="Represents sub&#45;channel (also known as blockwise quantization)." alt="" coords="637,1267,935,1352"/>
+<area shape="rect" id="node21" href="$classmlir_1_1quant_1_1UniformQuantizedType.html" title="Represents a family of uniform, quantized types." alt="" coords="639,1377,933,1447"/>
+<area shape="rect" id="node22" href="$classmlir_1_1spirv_1_1ArrayType.html" title=" " alt="" coords="679,1472,893,1528"/>
+<area shape="rect" id="node23" href="$classmlir_1_1spirv_1_1CooperativeMatrixType.html" title=" " alt="" coords="669,1552,903,1637"/>
+<area shape="rect" id="node24" href="$classmlir_1_1spirv_1_1ImageType.html" title=" " alt="" coords="683,1661,889,1717"/>
+<area shape="rect" id="node25" href="$classmlir_1_1spirv_1_1InterfaceVarABIAttr.html" title="An attribute that specifies the information regarding the interface variable: descriptor set,..." alt="" coords="639,1742,933,1813"/>
+<area shape="rect" id="node26" href="$classmlir_1_1spirv_1_1MatrixType.html" title=" " alt="" coords="675,1837,897,1907"/>
+<area shape="rect" id="node27" href="$classmlir_1_1spirv_1_1NamedBarrierType.html" title=" " alt="" coords="687,1932,885,1988"/>
+<area shape="rect" id="node28" href="$classmlir_1_1spirv_1_1PointerType.html" title=" " alt="" coords="681,2012,891,2097"/>
+<area shape="rect" id="node29" href="$classmlir_1_1spirv_1_1RuntimeArrayType.html" title=" " alt="" coords="667,2122,905,2193"/>
+<area shape="rect" id="node30" href="$classmlir_1_1spirv_1_1SampledImageType.html" title=" " alt="" coords="663,2217,909,2287"/>
+<area shape="rect" id="node31" href="$classmlir_1_1spirv_1_1SamplerType.html" title=" " alt="" coords="685,2312,887,2368"/>
+<area shape="rect" id="node32" href="$classmlir_1_1spirv_1_1StructType.html" title="SPIR&#45;V struct type." alt="" coords="677,2393,895,2463"/>
+<area shape="rect" id="node33" href="$classmlir_1_1spirv_1_1TargetEnvAttr.html" title="An attribute that specifies the target version, allowed extensions and capabilities,..." alt="" coords="657,2488,915,2544"/>
+<area shape="rect" id="node34" href="$classmlir_1_1spirv_1_1TensorArmType.html" title="SPIR&#45;V TensorARM Type." alt="" coords="662,2569,910,2639"/>
+<area shape="rect" id="node35" href="$classmlir_1_1spirv_1_1UntypedPointerType.html" title=" " alt="" coords="662,2663,910,2734"/>
+<area shape="rect" id="node36" href="$classmlir_1_1spirv_1_1VerCapExtAttr.html" title="An attribute that specifies the SPIR&#45;V (version, capabilities, extensions) triple." alt="" coords="656,2759,916,2815"/>
+<area shape="rect" id="node37" href="$classmlir_1_1detail_1_1StorageUserBase.html" title=" " alt="" coords="664,2839,908,2910"/>
+<area shape="rect" id="node39" href="$classmlir_1_1pdl__to__pdl__interp_1_1PredicateBase.html" title=" " alt="" coords="681,2934,891,3005"/>
+<area shape="rect" id="node40" href="$classmlir_1_1pdl__to__pdl__interp_1_1PredicateBase.html" title=" " alt="" coords="677,3029,895,3099"/>
+<area shape="rect" id="node41" href="$classmlir_1_1pdl__to__pdl__interp_1_1PredicateBase.html" title=" " alt="" coords="647,3123,925,3194"/>
+<area shape="rect" id="node42" href="$classmlir_1_1pdl__to__pdl__interp_1_1PredicateBase.html" title=" " alt="" coords="652,3218,920,3289"/>
+<area shape="rect" id="node43" href="$classmlir_1_1pdl__to__pdl__interp_1_1PredicateBase.html" title=" " alt="" coords="661,3313,911,3383"/>
+<area shape="rect" id="node44" href="$classmlir_1_1pdl__to__pdl__interp_1_1PredicateBase.html" title=" " alt="" coords="675,3407,897,3478"/>
+<area shape="rect" id="node45" href="$classmlir_1_1pdl__to__pdl__interp_1_1PredicateBase.html" title=" " alt="" coords="656,3502,916,3573"/>
+<area shape="rect" id="node46" href="$classmlir_1_1pdl__to__pdl__interp_1_1PredicateBase.html" title=" " alt="" coords="653,3597,919,3683"/>
+<area shape="rect" id="node47" href="$classmlir_1_1pdl__to__pdl__interp_1_1PredicateBase.html" title=" " alt="" coords="640,3707,932,3778"/>
+</map>

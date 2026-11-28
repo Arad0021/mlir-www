@@ -1,0 +1,7 @@
+<map id="mlir::python::MLIR_BINDINGS_PYTHON_DOMAIN::PyNoneType" name="mlir::python::MLIR_BINDINGS_PYTHON_DOMAIN::PyNoneType">
+<area shape="rect" id="node1" title="None Type subclass &#45; NoneType." alt="" coords="1213,5,1431,61"/>
+<area shape="rect" id="node2" href="$classmlir_1_1python_1_1MLIR__BINDINGS__PYTHON__DOMAIN_1_1PyConcreteType.html" title=" " alt="" coords="920,5,1164,61"/>
+<area shape="rect" id="node3" href="$classmlir_1_1python_1_1MLIR__BINDINGS__PYTHON__DOMAIN_1_1PyType.html" title="Wrapper around the generic MlirType." alt="" coords="272,7,489,63"/>
+<area shape="rect" id="node5" href="$classmlir_1_1python_1_1MLIR__BINDINGS__PYTHON__DOMAIN_1_1PyConcreteType.html" title="CRTP base classes for Python types that subclass Type and should be castable from it (i...." alt="" coords="539,35,757,106"/>
+<area shape="rect" id="node4" href="$classmlir_1_1python_1_1MLIR__BINDINGS__PYTHON__DOMAIN_1_1BaseContextObject.html" title="Base class for all objects that directly or indirectly depend on an MlirContext." alt="" coords="5,7,223,63"/>
+</map>

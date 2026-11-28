@@ -1,0 +1,4 @@
+<map id="mlir::python::MLIR_BINDINGS_PYTHON_DOMAIN::PyOpView" name="mlir::python::MLIR_BINDINGS_PYTHON_DOMAIN::PyOpView">
+<area shape="rect" id="node1" title="A PyOpView is equivalent to the C++ &quot;Op&quot; wrappers: these are the basis for providing more instance&#45;sp..." alt="" coords="5,109,223,165"/>
+<area shape="rect" id="node2" href="$classmlir_1_1python_1_1MLIR__BINDINGS__PYTHON__DOMAIN_1_1PyOperationBase.html" title="Base class for PyOperation and PyOpView which exposes the primary, user visible methods for manipulat..." alt="" coords="5,5,223,61"/>
+</map>

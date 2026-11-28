@@ -1,0 +1,7 @@
+<map id="mlir::gpu::GPUToROCDLPipelineOptions" name="mlir::gpu::GPUToROCDLPipelineOptions">
+<area shape="rect" id="node1" title="Options for the gpu to rocdl pipeline." alt="" coords="13,337,239,379"/>
+<area shape="rect" id="node2" href="$classmlir_1_1PassPipelineOptions.html" title=" " alt="" coords="5,247,247,288"/>
+<area shape="rect" id="node3" href="$classmlir_1_1detail_1_1PassOptions.html" title="Base container class and manager for all pass options." alt="" coords="31,81,211,108"/>
+<area shape="rect" id="node5" href="$classmlir_1_1PassPipelineOptions.html" title="Subclasses of PassPipelineOptions provide a set of options that can be used to initialize a pass pipe..." alt="" coords="141,157,367,184"/>
+<area shape="rect" id="node4" href="$classllvm_1_1cl_1_1SubCommand.html" title=" " alt="" coords="36,5,205,32"/>
+</map>
